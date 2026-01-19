@@ -82,7 +82,7 @@ matplotlib>=3.7.0
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/GLR-BiMDA.git
+git clone https://github.com/CDMBlab/GLR-BiMDA.git
 cd GLR-BiMDA
 ```
 
@@ -268,3 +268,4 @@ Addressing class imbalance through:
 - **Iterative Centroid Updating**: Dynamically adjusts positive/negative centroids
 - **Multi-View Similarity**: Considers both sequence and functional perspectives
 - **Adaptive Filtering**: Selects high-confidence negative samples based on embedding similarities
+
